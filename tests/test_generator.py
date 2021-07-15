@@ -21,4 +21,4 @@ def test_generate_buzz_of_at_least_five_words():
 
 def test_print():
     x = "hello"
-    assert x == "heloixyz"
+    assert x == "hello"
